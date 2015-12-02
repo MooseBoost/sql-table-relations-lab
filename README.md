@@ -27,3 +27,4 @@ Let the `spec/create_spec.rb` guide you on how the tables look. Write your `CREA
 ## Resources
 
 * [All about Joins: the 3 Ring Binder Model](http://blog.seldomatt.com/blog/2012/10/17/about-sql-joins-the-3-ring-binder-model/)
+<a href='https://learn.co/lessons/sql-table-relations-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
